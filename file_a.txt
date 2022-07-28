@@ -3,3 +3,6 @@ A Git egy verziókezelő, arra szolgál, hogy fileok (programok, dokumentációk
 - nyomon tudja követni, hogy mikor hogyan változott a könyvtárunk,
 - vissza tudja állítani bármelyik korábbi (commit-olt) állapotát a könyvtárnak,
 - szinkronizálni tud egy másik gépen levő hasonló könyvtárral, közben intelligensen átvezeti a változásokat, illetve jelez, ha nem megy neki.
+
+
+.gitignorba: *.txt
